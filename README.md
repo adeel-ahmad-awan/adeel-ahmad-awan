@@ -1,38 +1,17 @@
-- 👋 Hi, I’m @adeel-ahmad-awan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ adeelahmadawan@gmail.com
+# Adeel Ahmad :wave:
+ 
 
-<!---
-adeel-ahmad-awan/adeel-ahmad-awan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Adeel Ahmad, a Full Stack Developer in with experience on numerous tech stacks.
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=adeel-ahmad-awan&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeel-ahmad-awan&layout=compact)
 
 
-----------
+## Skills
+### Programming Languages:
 
-<p align="center">
-    <img src="https://tanaytoshniwal.me/assets/images/nametag.png" width="350px" alt="tanay toshniwal" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanaytoshniwal&show_icons=true&count_private=true&theme=dark"/>
-</p>
-
-# About Me
-Hi folks :wave: 
-
-I'm Tanay Toshniwal, a Full Stack Developer in MEAN (MongoDB-Express.js-Angular-Node.js) and MERN(MongoDB-Express.js-React.js-Node.js) Stack, an App Developer and a part-time Musician.
-
-I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
-
-# Skills
-## Programming Languages:
-
-<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/Java SE-important" alt="Java SE" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/TypeScript-yellow" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs" /> <img src="https://img.shields.io/badge/Strapi_JS-1e1d80" alt="Strapi Js" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express Js" /> <img src="https://img.shields.io/badge/Symfony-18171b" alt="Symfony" /> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="My Sql" />  <img src="https://img.shields.io/badge/Doctrine_ORM-355886" alt="Doctrine ORM" />  <img src="https://img.shields.io/badge/Prisma_ORM-84a9da" alt="Prisma ORM" />  <img src="https://img.shields.io/badge/Sequelize_ORM-557db3" alt="Sequelize ORM" />  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
 
 <!-- * C/C++
 * Java SE
@@ -40,49 +19,34 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 * JavaScript (ES6)
 * TypeScript -->
 
-## Frameworks:
+### Frameworks:
 
 <details>
     <summary>view list...</summary>
     <ul>
-        <li>MEAN</li>
-        <li>MERN</li>
-        <li>Angular</li>
-        <li>React</li>
-        <li>React Native</li>
-        <li>Redux</li>
+        <li>Symfony</li>
+        <li>Ruby On Rails</li>
+        <li>Django</li>
         <li>Node.js</li>
-        <li>Ionic 3 & 4</li>
-        <li>Mongo DB</li>
-        <li>Android</li>
     </ul>
 </details>
 
-## Database:
+### Database:
 
 <details>
     <summary>view list...</summary>
     <ul>
-        <li>MongoDB</li>
         <li>MySQL</li>
     </ul>
 </details>
 
-# Want to know more?
+## Want to know more?
 
 <!-- My Portfolio: [https://tanaytoshniwal.me](https://tanaytoshniwal.me) -->
 
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://tanaytoshniwal.me) 
-
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Ftanaytoshniwal.com-red" />](https://tanaytoshniwal.com) 
-
-[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
-
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-tanaytoshniwal98%40gmail.me-orange" />](mailto:tanaytoshniwal98@gmail.me) 
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tanaytoshniwal?label=Follow%20Me&style=social" />
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-adeelahmadawan%40gmail.com-orange" />](mailto:adeelahmadawan@gmail.com) 
 
 -----
 Credits: [tanaytoshniwal](https://github.com/tanaytoshniwal)
 
-Last Edited on: 30/08/2020
+Last Edited on: 28/07/2021
